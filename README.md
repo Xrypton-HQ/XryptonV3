@@ -3,3 +3,4 @@
 - Voby7
 
 Time Period: 2026 April - 2026 August
+**rename configexample.py to config.py**
